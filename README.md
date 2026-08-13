@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
