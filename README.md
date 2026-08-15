@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/HowSuyash/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HowSuyash/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 ## Tree
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
