@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
