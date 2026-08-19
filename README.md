@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HowSuyash/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 ## Tree
 |  |
 | ------- |
