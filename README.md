@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/HowSuyash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
 | ------- |
