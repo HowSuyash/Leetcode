@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/HowSuyash/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/HowSuyash/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/HowSuyash/Leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HowSuyash/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HowSuyash/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
