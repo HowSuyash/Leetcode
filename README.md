@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/HowSuyash/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/HowSuyash/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/HowSuyash/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/HowSuyash/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
