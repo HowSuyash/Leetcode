@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/HowSuyash/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/HowSuyash/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HowSuyash/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
