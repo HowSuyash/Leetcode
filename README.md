@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HowSuyash/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0283-move-zeroes) |
+| [0835-image-overlap](https://github.com/HowSuyash/Leetcode/tree/master/0835-image-overlap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HowSuyash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HowSuyash/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HowSuyash/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/HowSuyash/Leetcode/tree/master/0835-image-overlap) |
 ## Backtracking
 |  |
 | ------- |
