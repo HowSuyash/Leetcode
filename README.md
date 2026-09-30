@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/HowSuyash/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/HowSuyash/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/HowSuyash/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HowSuyash/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HowSuyash/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/HowSuyash/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
