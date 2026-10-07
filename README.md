@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HowSuyash/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/HowSuyash/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/HowSuyash/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HowSuyash/Leetcode/tree/master/0051-n-queens) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HowSuyash/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HowSuyash/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
