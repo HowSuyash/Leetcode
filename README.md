@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/HowSuyash/Leetcode/tree/master/0835-image-overlap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HowSuyash/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HowSuyash/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HowSuyash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HowSuyash/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HowSuyash/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HowSuyash/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HowSuyash/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HowSuyash/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/HowSuyash/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HowSuyash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HowSuyash/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HowSuyash/Leetcode/tree/master/0191-number-of-1-bits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HowSuyash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HowSuyash/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
